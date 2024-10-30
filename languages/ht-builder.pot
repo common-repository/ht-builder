@@ -1,0 +1,1527 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HT Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-20 04:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: ht-builder"
+
+#: includes/admin/templates_list.php:59
+msgid " has been imported."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: includes/base.php:135
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: includes/base.php:151 includes/base.php:168
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:238
+#: includes/widgets/bl_post_meta_info.php:575
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:64
+msgid "1"
+msgstr ""
+
+#: includes/admin/templates_list.php:31
+msgid "10 Headers and 10 footers & 3 blog layout"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:65
+msgid "2"
+msgstr ""
+
+#: includes/admin/templates_list.php:33
+msgid "2 Templates are Free and 18 Templates are Premium."
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:66
+msgid "3"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:67
+msgid "4"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:82
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus Option</a> to create one."
+msgstr ""
+
+#: includes/base.php:124
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:281
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:94
+msgid "Additional Options"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:100
+msgid "Admin Posts"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:110 includes/widgets/bl_page_title.php:133
+#: includes/widgets/bl_post_archive.php:302
+#: includes/widgets/bl_post_archive.php:383
+#: includes/widgets/bl_post_archive.php:490
+#: includes/widgets/bl_post_archive.php:596
+#: includes/widgets/bl_post_archive.php:676
+#: includes/widgets/bl_post_archive_title.php:135
+#: includes/widgets/bl_post_content.php:68
+#: includes/widgets/bl_post_excerpt.php:68
+#: includes/widgets/bl_post_featured_image.php:67
+#: includes/widgets/bl_post_title.php:101 includes/widgets/bl_site_logo.php:155
+#: includes/widgets/bl_site_title.php:135
+msgid "Alignment"
+msgstr ""
+
+#: includes/admin/admin-setting.php:239 includes/admin/admin-setting.php:240
+msgid "Archive Posts"
+msgstr ""
+
+#: includes/admin/admin-setting.php:248 includes/admin/admin-setting.php:249
+#: includes/widgets/bl_post_archive_title.php:39
+#: includes/widgets/bl_post_archive_title.php:60
+#: includes/widgets/bl_post_archive_title.php:168
+msgid "Archive Title"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:150
+msgid ""
+"Are you getting frustrated with WooCommerce’s current way of presenting the "
+"variants for your products? Well, say goodbye to dropdowns and start showing "
+"the product variations in a whole new light with Swatchly."
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:224
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:65
+msgid "Author"
+msgstr ""
+
+#: includes/admin/admin-setting.php:293 includes/admin/admin-setting.php:294
+#: includes/widgets/bl_post_author_info.php:40
+msgid "Author Info"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:170
+msgid "Avatar"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:109
+msgid "Avater Image Position"
+msgstr ""
+
+#: includes/admin/templates_list.php:46
+msgid "Back to Library"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:162 includes/widgets/bl_nav_menu.php:248
+#: includes/widgets/bl_nav_menu.php:301 includes/widgets/bl_nav_menu.php:355
+#: includes/widgets/bl_nav_menu.php:398 includes/widgets/bl_nav_menu.php:452
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/bl_post_comments.php:108
+#: includes/widgets/bl_post_comments.php:158
+#: includes/widgets/bl_post_search_form.php:199
+#: includes/widgets/bl_post_search_form.php:273
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:257
+msgid "Biography"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:23
+msgid "BL: Archive Posts"
+msgstr ""
+
+#: includes/widgets/bl_post_archive_title.php:22
+msgid "BL: Archive Title"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:23
+msgid "BL: Author Info"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:23
+msgid "BL: Nav Menu"
+msgstr ""
+
+#: includes/widgets/bl_page_title.php:22
+msgid "BL: Page Title"
+msgstr ""
+
+#: includes/widgets/bl_post_comments.php:22
+msgid "BL: Post Comments"
+msgstr ""
+
+#: includes/widgets/bl_post_content.php:22
+msgid "BL: Post Content"
+msgstr ""
+
+#: includes/widgets/bl_post_excerpt.php:22
+msgid "BL: Post Excerpt"
+msgstr ""
+
+#: includes/widgets/bl_post_featured_image.php:23
+msgid "BL: Post Featured Image"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:23
+msgid "BL: Post Meta Info"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:22
+msgid "BL: Post Search Form"
+msgstr ""
+
+#: includes/widgets/bl_post_title.php:23
+msgid "BL: Post Title"
+msgstr ""
+
+#: includes/widgets/bl_site_logo.php:24
+msgid "BL: Site Logo"
+msgstr ""
+
+#: includes/widgets/bl_site_title.php:22
+msgid "BL: Site Title"
+msgstr ""
+
+#: includes/admin/admin-setting.php:109
+msgid "Blog Template."
+msgstr ""
+
+#: includes/widgets/bl_post_title.php:134
+msgid "Blog Title"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:185 includes/widgets/bl_nav_menu.php:258
+#: includes/widgets/bl_nav_menu.php:311 includes/widgets/bl_nav_menu.php:421
+#: includes/widgets/bl_nav_menu.php:462 includes/widgets/bl_page_title.php:87
+#: includes/widgets/bl_post_archive.php:282
+#: includes/widgets/bl_post_archive.php:746
+#: includes/widgets/bl_post_archive.php:812
+#: includes/widgets/bl_post_archive.php:882
+#: includes/widgets/bl_post_archive.php:937
+#: includes/widgets/bl_post_archive_title.php:89
+#: includes/widgets/bl_post_author_info.php:175
+#: includes/widgets/bl_post_comments.php:68
+#: includes/widgets/bl_post_comments.php:129
+#: includes/widgets/bl_post_comments.php:170
+#: includes/widgets/bl_post_search_form.php:135
+#: includes/widgets/bl_post_search_form.php:220
+#: includes/widgets/bl_post_search_form.php:285
+#: includes/widgets/bl_site_logo.php:108 includes/widgets/bl_site_title.php:89
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:193 includes/widgets/bl_nav_menu.php:266
+#: includes/widgets/bl_nav_menu.php:319 includes/widgets/bl_page_title.php:96
+#: includes/widgets/bl_post_archive.php:290
+#: includes/widgets/bl_post_archive.php:754
+#: includes/widgets/bl_post_archive.php:820
+#: includes/widgets/bl_post_archive.php:890
+#: includes/widgets/bl_post_archive.php:945
+#: includes/widgets/bl_post_archive_title.php:98
+#: includes/widgets/bl_post_author_info.php:183
+#: includes/widgets/bl_post_search_form.php:143
+#: includes/widgets/bl_post_search_form.php:228
+#: includes/widgets/bl_site_logo.php:117 includes/widgets/bl_site_title.php:98
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:125
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:206 includes/widgets/bl_nav_menu.php:365
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:170
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:90
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:54
+msgid "Button Type"
+msgstr ""
+
+#: includes/admin/templates_list.php:37
+msgid "Buy HT Builder Pro Version"
+msgstr ""
+
+#: includes/admin/templates_list.php:73
+msgid "Buy Now"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:543
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:118 includes/widgets/bl_nav_menu.php:503
+#: includes/widgets/bl_page_title.php:141
+#: includes/widgets/bl_post_archive.php:310
+#: includes/widgets/bl_post_archive.php:391
+#: includes/widgets/bl_post_archive.php:498
+#: includes/widgets/bl_post_archive.php:604
+#: includes/widgets/bl_post_archive.php:684
+#: includes/widgets/bl_post_archive_title.php:143
+#: includes/widgets/bl_post_content.php:76
+#: includes/widgets/bl_post_excerpt.php:76
+#: includes/widgets/bl_post_featured_image.php:75
+#: includes/widgets/bl_post_title.php:109 includes/widgets/bl_site_logo.php:163
+#: includes/widgets/bl_site_title.php:143
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:509
+msgid "Choose"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:304
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:148 includes/widgets/bl_nav_menu.php:234
+#: includes/widgets/bl_nav_menu.php:288 includes/widgets/bl_nav_menu.php:384
+#: includes/widgets/bl_nav_menu.php:438 includes/widgets/bl_page_title.php:66
+#: includes/widgets/bl_post_archive.php:351
+#: includes/widgets/bl_post_archive.php:418
+#: includes/widgets/bl_post_archive.php:457
+#: includes/widgets/bl_post_archive.php:564
+#: includes/widgets/bl_post_archive.php:631
+#: includes/widgets/bl_post_archive.php:656
+#: includes/widgets/bl_post_archive.php:725
+#: includes/widgets/bl_post_archive.php:800
+#: includes/widgets/bl_post_archive.php:860
+#: includes/widgets/bl_post_archive.php:924
+#: includes/widgets/bl_post_archive_title.php:68
+#: includes/widgets/bl_post_author_info.php:226
+#: includes/widgets/bl_post_author_info.php:266
+#: includes/widgets/bl_post_comments.php:47
+#: includes/widgets/bl_post_comments.php:97
+#: includes/widgets/bl_post_comments.php:147
+#: includes/widgets/bl_post_content.php:48
+#: includes/widgets/bl_post_excerpt.php:48
+#: includes/widgets/bl_post_meta_info.php:355
+#: includes/widgets/bl_post_meta_info.php:395
+#: includes/widgets/bl_post_meta_info.php:425
+#: includes/widgets/bl_post_meta_info.php:451
+#: includes/widgets/bl_post_search_form.php:114
+#: includes/widgets/bl_post_search_form.php:188
+#: includes/widgets/bl_post_search_form.php:262
+#: includes/widgets/bl_site_title.php:68
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:60
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:207
+msgid "Comment count"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:68
+#: includes/widgets/bl_post_meta_info.php:235
+msgid "Comments"
+msgstr ""
+
+#: includes/widgets/bl_post_comments.php:191
+msgid "Comments Are Closed"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:186
+msgid ""
+"Contact Form7 Extensions plugin is a fantastic WordPress plugin that "
+"enriches the functionalities of Contact Form 7.This all-in-one WordPress "
+"plugin will help you turn any contact page into a well-organized, engaging "
+"tool for communicating with your website visitors by providing tons of "
+"advanced features like drag and drop file upload, repeater field, trigger "
+"error for already submitted forms, popup form response, country flags and "
+"dial codes with a telephone input field and acceptance field, etc. in "
+"addition to its basic features."
+msgstr ""
+
+#: includes/admin/admin-setting.php:441
+msgid "Contact Us"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:649
+#: includes/widgets/bl_post_author_info.php:210
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:161
+msgid "Content Length"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:328
+msgid "Coupon Zen"
+msgstr ""
+
+#: includes/admin/templates_list.php:16
+msgid "Create a new page from this template"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:70
+#: includes/widgets/bl_post_meta_info.php:88
+#: includes/widgets/bl_post_meta_info.php:126
+#: includes/widgets/bl_post_meta_info.php:249
+#: includes/widgets/bl_post_meta_info.php:292
+#: includes/widgets/bl_site_logo.php:56
+msgid "Custom"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:99
+msgid "Custom Date Format"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:195
+msgid "Custom Format"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:188
+msgid "Custom order"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:137
+msgid "Custom Time Format"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:273
+msgid "Custom URL"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:322
+msgid "DataCaptia"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:204
+#: includes/widgets/bl_post_meta_info.php:66
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:78
+msgid "Date Format"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:84
+msgctxt "Date Format"
+msgid "March 6, 2018 (F j, Y)"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:50
+#: includes/widgets/bl_post_meta_info.php:291
+#: includes/widgets/bl_site_logo.php:52
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:223
+msgid "Descending"
+msgstr ""
+
+#: includes/helper-function.php:172
+msgid "div"
+msgstr ""
+
+#: includes/helper-function.php:63
+msgid "Do not Saved Templates."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:264
+msgid "Docus Pro"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:316
+msgid "Docus – YouTube Video Playlist"
+msgstr ""
+
+#: includes/admin/template-library.php:209
+msgid "Edit Template"
+msgstr ""
+
+#: includes/base.php:137 includes/base.php:153
+msgid "Elementor"
+msgstr ""
+
+#: includes/admin/admin-setting.php:73
+msgid "Elements"
+msgstr ""
+
+#: includes/admin/admin-setting.php:92
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/admin-setting.php:91
+msgid "Enable Custom template Layout"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:93
+msgid "Enter you text"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:78
+msgid "Enter Your Text"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:68
+msgid "Extensions For CF7"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:183
+msgid "Extensions For CF7 Pro"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:292
+msgid "Faster YouTube Embed"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:463
+msgid "Font Size"
+msgstr ""
+
+#: classes/class.header_footer.php:100
+msgid "Footer Template"
+msgstr ""
+
+#: includes/admin/admin-setting.php:127
+msgid "Footer Template."
+msgstr ""
+
+#: includes/admin/admin-setting.php:551
+msgid "Free Plugins"
+msgstr ""
+
+#: includes/admin/admin-setting.php:63
+msgid "General"
+msgstr ""
+
+#: includes/admin/admin-setting.php:388
+msgid "Go Premium"
+msgstr ""
+
+#: includes/base.php:192
+msgid "Go Pro"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:74
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus Option</a> to manage your "
+"menus."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:237
+msgid "Google Place Review"
+msgstr ""
+
+#: includes/helper-function.php:165
+msgid "H1"
+msgstr ""
+
+#: includes/helper-function.php:166
+msgid "H2"
+msgstr ""
+
+#: includes/helper-function.php:167
+msgid "H3"
+msgstr ""
+
+#: includes/helper-function.php:168
+msgid "H4"
+msgstr ""
+
+#: includes/helper-function.php:169
+msgid "H5"
+msgstr ""
+
+#: includes/helper-function.php:170
+msgid "H6"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:50
+msgid "HashBar"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:195
+msgid ""
+"HashBar is a WordPress Notification / Alert / Offer Bar plugin which allows "
+"you to create unlimited notification bars to notify your customers. This "
+"plugin has option to show email subscription form (sometimes it increases up "
+"to 500% email subscriber), Offer text and buttons about your promotions. "
+"This plugin has the options to add unlimited background colors and images to "
+"make your notification bar more professional."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:192
+msgid "HashBar Pro"
+msgstr ""
+
+#: includes/admin/admin-setting.php:525
+msgid "HashBar Pro - WordPress Notification Bar plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: classes/class.header_footer.php:89
+msgid "Header Template"
+msgstr ""
+
+#: includes/admin/admin-setting.php:118
+msgid "Header Template."
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:106
+#: includes/widgets/bl_post_archive.php:118
+#: includes/widgets/bl_post_archive.php:130
+#: includes/widgets/bl_post_archive.php:142
+#: includes/widgets/bl_post_author_info.php:49
+#: includes/widgets/bl_post_author_info.php:74
+#: includes/widgets/bl_post_author_info.php:86
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:227 includes/widgets/bl_nav_menu.php:432
+#: includes/widgets/bl_post_archive.php:411
+#: includes/widgets/bl_post_archive.php:518
+#: includes/widgets/bl_post_archive.php:624
+#: includes/widgets/bl_post_archive.php:793
+#: includes/widgets/bl_post_archive.php:917
+#: includes/widgets/bl_post_comments.php:140
+#: includes/widgets/bl_post_meta_info.php:419
+#: includes/widgets/bl_post_search_form.php:255
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:491
+msgid "Hover Color"
+msgstr ""
+
+#. Name of the plugin
+#: includes/base.php:104 includes/base.php:136 includes/base.php:152
+#: includes/base.php:169 includes/admin/admin-setting.php:34
+#: includes/admin/admin-setting.php:35
+msgid "HT Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"HT Builder is a elementor addons package for Elementor page builder plugin "
+"for WordPress."
+msgstr ""
+
+#: includes/admin/admin-setting.php:366
+msgid "HT Builder Settings"
+msgstr ""
+
+#: includes/admin/templates_list.php:29
+msgid "HT Builder Templates Library"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:255
+msgid "HT Click To Call"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:62
+msgid "HT Contact Form 7"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:286
+msgid "HT Feed"
+msgstr ""
+
+#: classes/class.header_footer.php:81
+msgid "HT Header & Footer"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:44
+msgid "HT Mega"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:138
+msgid "HT Mega Pro"
+msgstr ""
+
+#: includes/admin/admin-setting.php:516
+msgid "HT Mega – Absolute Addons for Elementor Page Builder"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:80
+msgid "HT Menu"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:219
+msgid "HT Menu Pro"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:86
+msgid "HT Script"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:210
+msgid "HT Script Pro"
+msgstr ""
+
+#: includes/admin/admin-setting.php:534
+msgid "HT Script Pro - Insert Header & Footer Code"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:56
+msgid "HT Slider For Elementor"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:228
+msgid "HT Slider Pro For Elementor"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:231
+msgid ""
+"HT Slider Pro is a plugin to create a slider for WordPress websites easily "
+"using the Elementor page builder. 80+ prebuild slides/templates are included "
+"in this plugin. There is the option to create a post slider, WooCommerce "
+"product slider, Video slider, image slider, etc. Fullscreen, full width and "
+"box layout option are included."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:340
+msgid "HT Social Share"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:74
+msgid "HT WPForms"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:258
+msgid ""
+"HT – Click to Call is a lightweight WordPress plugin that allows you to add "
+"a floating click to call button on your website. It will offer your website "
+"visitors an opportunity to call your business immediately at the right "
+"moment, especially when they are interested in your products or services and "
+"seeking more information."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:141
+msgid ""
+"HTMega is an absolute addon for elementor that includes 80+ elements & 360 "
+"Blocks with unlimited variations. HT Mega brings limitless possibilities. "
+"Embellish your site with the elements of HT Mega."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://hasthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hasthemes.com/plugins/"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:287
+#: includes/widgets/bl_post_meta_info.php:443
+#: includes/widgets/bl_post_search_form.php:62
+#: includes/widgets/bl_post_search_form.php:74
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:496
+msgid "Icon Align"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:485
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:203
+msgid "ID"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:240
+msgid ""
+"If you are searching for a modern and excellent google places review "
+"WordPress plugin to showcase reviews from Google Maps and strengthen trust "
+"between you and your site visitors, look no further than HT Google Place "
+"Review"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:140
+msgid "Image"
+msgstr ""
+
+#: includes/admin/templates_list.php:77
+msgid "Import"
+msgstr ""
+
+#: includes/admin/templates_list.php:13
+msgid "Import template to your Library"
+msgstr ""
+
+#: includes/admin/templates_list.php:60
+msgid "Import to Library"
+msgstr ""
+
+#: includes/admin/templates_list.php:61
+msgid "Import to Page"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:51
+msgid "inline"
+msgstr ""
+
+#: includes/widgets/bl_post_comments.php:39
+#: includes/widgets/bl_post_search_form.php:106
+msgid "Input Box"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:213
+msgid ""
+"Insert Headers and Footers Code allows you to insert Google Analytics, "
+"Facebook Pixel, custom CSS, custom HTML, JavaScript code to your website "
+"header and footer without modifying your theme code.This plugin has the "
+"option to add any custom code to your theme in one place, no need to edit "
+"the theme code. It will save your time and remove the hassle for the theme "
+"update."
+msgstr ""
+
+#: includes/base.php:130
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/helper-function.php:286
+msgid "Install Now"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:249
+#: includes/widgets/bl_post_meta_info.php:347
+msgid "Item"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:378
+msgid "Item Link"
+msgstr ""
+
+#: includes/widgets/bl_page_title.php:149
+#: includes/widgets/bl_post_archive_title.php:151
+#: includes/widgets/bl_post_content.php:84
+#: includes/widgets/bl_post_excerpt.php:84
+#: includes/widgets/bl_post_title.php:117 includes/widgets/bl_site_logo.php:171
+#: includes/widgets/bl_site_title.php:151
+msgid "Justified"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:110
+msgid "JustTables"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:168
+msgid ""
+"JustTables is an incredible WordPress plugin that lets you showcase all your "
+"WooCommerce products in a sortable and filterable table view. It allows your "
+"customers to easily navigate through different attributes of the products "
+"and compare them on a single page. This plugin will be of great help if you "
+"are looking for an easy solution that increases the chances of landing a "
+"sale on your online store."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:165
+msgid "JustTables Pro"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:47
+#: includes/widgets/bl_post_meta_info.php:46
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:51
+msgid "Layout One"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:52
+msgid "Layout Two"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:114 includes/widgets/bl_nav_menu.php:502
+#: includes/widgets/bl_page_title.php:137
+#: includes/widgets/bl_post_archive.php:306
+#: includes/widgets/bl_post_archive.php:387
+#: includes/widgets/bl_post_archive.php:494
+#: includes/widgets/bl_post_archive.php:600
+#: includes/widgets/bl_post_archive.php:680
+#: includes/widgets/bl_post_archive_title.php:139
+#: includes/widgets/bl_post_author_info.php:113
+#: includes/widgets/bl_post_content.php:72
+#: includes/widgets/bl_post_excerpt.php:72
+#: includes/widgets/bl_post_featured_image.php:71
+#: includes/widgets/bl_post_title.php:105 includes/widgets/bl_site_logo.php:159
+#: includes/widgets/bl_site_title.php:139
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:95
+#: includes/widgets/bl_post_meta_info.php:261
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:525
+msgid "Link Color"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:102
+msgid "Link for the Author Name and Image"
+msgstr ""
+
+#: includes/widgets/bl_site_logo.php:48
+msgid "Logo"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:1073
+msgid "M d, Y"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:95
+msgid "Main Menu"
+msgstr ""
+
+#: includes/widgets/bl_page_title.php:121
+#: includes/widgets/bl_post_archive.php:257
+#: includes/widgets/bl_post_archive.php:371
+#: includes/widgets/bl_post_archive.php:478
+#: includes/widgets/bl_post_archive.php:584
+#: includes/widgets/bl_post_archive.php:778
+#: includes/widgets/bl_post_archive.php:902
+#: includes/widgets/bl_post_archive_title.php:123
+#: includes/widgets/bl_post_author_info.php:195
+#: includes/widgets/bl_post_author_info.php:245
+#: includes/widgets/bl_post_author_info.php:285
+#: includes/widgets/bl_post_title.php:88 includes/widgets/bl_site_logo.php:143
+#: includes/widgets/bl_site_title.php:123
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:68
+msgid "Menu"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:39
+msgid "Meta Data"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:436
+msgid "Meta Info"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:61
+msgid "Meta Name"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:478
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/admin/admin-setting.php:509 includes/admin/admin-setting.php:518
+#: includes/admin/admin-setting.php:527 includes/admin/admin-setting.php:536
+msgid "More Details"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:116
+msgid "Multi Currency"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:174
+msgid "Multi Currency Pro for WooCommerce"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:177
+msgid ""
+"Multi-Currency Pro for WooCommerce is a prominent currency switcher plugin "
+"for WooCommerce. This plugin allows your website or online store visitors to "
+"switch to their preferred currency or their country’s currency."
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:205
+#: includes/widgets/bl_post_author_info.php:217
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:58
+msgid "Name HTML Tag"
+msgstr ""
+
+#: includes/admin/admin-setting.php:284 includes/admin/admin-setting.php:285
+msgid "Nav Menu"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:60
+msgid "Navigation"
+msgstr ""
+
+#: includes/admin/template-library.php:187
+msgid "New Template"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:207
+#: includes/widgets/bl_post_meta_info.php:210
+#: includes/widgets/bl_post_meta_info.php:573
+msgid "No Comments"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:202
+#: includes/widgets/bl_post_author_info.php:98
+#: includes/widgets/bl_post_meta_info.php:290
+msgid "None"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:142 includes/widgets/bl_nav_menu.php:377
+#: includes/widgets/bl_post_archive.php:344
+#: includes/widgets/bl_post_archive.php:450
+#: includes/widgets/bl_post_archive.php:557
+#: includes/widgets/bl_post_archive.php:718
+#: includes/widgets/bl_post_archive.php:853
+#: includes/widgets/bl_post_comments.php:90
+#: includes/widgets/bl_post_meta_info.php:388
+#: includes/widgets/bl_post_search_form.php:181
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:221
+#: includes/widgets/bl_post_meta_info.php:224
+#: includes/widgets/bl_post_meta_info.php:574
+msgid "One Comment"
+msgstr ""
+
+#: includes/admin/admin-setting.php:436
+msgid "Online Documentation"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:219
+msgid "order"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:198
+msgid "Orderby"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:274
+msgid "Others"
+msgstr ""
+
+#: includes/helper-function.php:171
+msgid "p"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:171 includes/widgets/bl_nav_menu.php:407
+#: includes/widgets/bl_page_title.php:108
+#: includes/widgets/bl_post_archive.php:269
+#: includes/widgets/bl_post_archive.php:766
+#: includes/widgets/bl_post_archive_title.php:110
+#: includes/widgets/bl_post_search_form.php:155
+#: includes/widgets/bl_post_search_form.php:240
+#: includes/widgets/bl_site_logo.php:130 includes/widgets/bl_site_title.php:110
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/bl_post_content.php:125
+msgid "Page"
+msgstr ""
+
+#: includes/admin/admin-setting.php:257 includes/admin/admin-setting.php:258
+#: includes/widgets/bl_page_title.php:39 includes/widgets/bl_page_title.php:58
+#: includes/widgets/bl_page_title.php:167
+msgid "Page Title"
+msgstr ""
+
+#: includes/widgets/bl_post_content.php:121
+msgid "Pages:"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:839
+msgid "Pagination"
+msgstr ""
+
+#: includes/base.php:170
+msgid "PHP"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:45
+msgid "Placeholder"
+msgstr ""
+
+#: includes/admin/templates_list.php:17
+msgctxt "placeholder"
+msgid "Enter a Page Name"
+msgstr ""
+
+#: includes/admin/admin-setting.php:221 includes/admin/admin-setting.php:222
+#: includes/widgets/bl_post_comments.php:186
+msgid "Post Comments"
+msgstr ""
+
+#: includes/admin/admin-setting.php:212 includes/admin/admin-setting.php:213
+#: includes/widgets/bl_post_content.php:40
+#: includes/widgets/bl_post_content.php:103
+msgid "Post Content"
+msgstr ""
+
+#: includes/admin/admin-setting.php:203 includes/admin/admin-setting.php:204
+#: includes/widgets/bl_post_excerpt.php:40
+#: includes/widgets/bl_post_excerpt.php:102
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/admin/admin-setting.php:185 includes/admin/admin-setting.php:186
+#: includes/widgets/bl_post_featured_image.php:40
+#: includes/widgets/bl_post_featured_image.php:59
+#: includes/widgets/bl_post_featured_image.php:97
+msgid "Post Featured Image"
+msgstr ""
+
+#: includes/admin/admin-setting.php:194 includes/admin/admin-setting.php:195
+msgid "Post Meta Info"
+msgstr ""
+
+#: includes/admin/admin-setting.php:230 includes/admin/admin-setting.php:231
+msgid "Post Search Form"
+msgstr ""
+
+#: includes/admin/admin-setting.php:176 includes/admin/admin-setting.php:177
+#: includes/widgets/bl_post_title.php:41 includes/widgets/bl_post_title.php:60
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/admin-setting.php:501
+msgid "Premium Plugins"
+msgstr ""
+
+#: includes/admin/admin-setting.php:393
+msgid "premium version"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:304
+msgid "Preview Link Generator"
+msgstr ""
+
+#: includes/admin/admin-setting.php:312
+msgid "Print Page"
+msgstr ""
+
+#: includes/admin/admin-setting.php:311
+msgid "Print Page <span>( Pro )</span>"
+msgstr ""
+
+#: includes/admin/templates_list.php:83
+msgid "Pro"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:147
+msgid "Product Variation Swatches"
+msgstr ""
+
+#: includes/admin/admin-setting.php:393
+msgid "Purchase our"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:154
+msgid "Query Settings"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:310
+msgid "QuickSwish"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:208
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:704
+msgid "Read More"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:77
+#: includes/widgets/bl_post_archive.php:1091
+msgid "Read more"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:75
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:280
+msgid "Really Simple Google Tag Manager"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:31
+msgid "Recommended"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:122 includes/widgets/bl_nav_menu.php:504
+#: includes/widgets/bl_page_title.php:145
+#: includes/widgets/bl_post_archive.php:314
+#: includes/widgets/bl_post_archive.php:395
+#: includes/widgets/bl_post_archive.php:502
+#: includes/widgets/bl_post_archive.php:608
+#: includes/widgets/bl_post_archive.php:688
+#: includes/widgets/bl_post_archive_title.php:147
+#: includes/widgets/bl_post_author_info.php:117
+#: includes/widgets/bl_post_content.php:80
+#: includes/widgets/bl_post_excerpt.php:80
+#: includes/widgets/bl_post_featured_image.php:79
+#: includes/widgets/bl_post_title.php:113 includes/widgets/bl_site_logo.php:167
+#: includes/widgets/bl_site_title.php:147
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:92
+#: includes/widgets/bl_post_search_form.php:308
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:47
+msgid "Search ..."
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:38
+msgid "Search Form"
+msgstr ""
+
+#: includes/admin/admin-setting.php:136
+msgid "Search Page Template."
+msgstr ""
+
+#: includes/helper-function.php:65
+msgid "Select Template"
+msgstr ""
+
+#: includes/base.php:188 includes/widgets/bl_post_archive.php:40
+msgid "Settings"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:105
+#: includes/widgets/bl_post_archive.php:117
+#: includes/widgets/bl_post_archive.php:129
+#: includes/widgets/bl_post_archive.php:141
+#: includes/widgets/bl_post_author_info.php:48
+#: includes/widgets/bl_post_author_info.php:73
+#: includes/widgets/bl_post_author_info.php:85
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:71
+msgid "Show Avatar Image"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:83
+msgid "Show Biography"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:115
+msgid "Show Category"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:127
+msgid "Show Post Meta"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:139
+msgid "Show Read More Button"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:103
+#: includes/widgets/bl_post_author_info.php:46
+msgid "Show Title"
+msgstr ""
+
+#: includes/admin/admin-setting.php:100
+msgid "Single Blog Template."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:334
+msgid "Sirve – Simple Directory Listing"
+msgstr ""
+
+#: includes/admin/admin-setting.php:275 includes/admin/admin-setting.php:276
+#: includes/widgets/bl_site_logo.php:69
+msgid "Site Logo"
+msgstr ""
+
+#: includes/admin/admin-setting.php:266 includes/admin/admin-setting.php:267
+#: includes/widgets/bl_site_logo.php:41 includes/widgets/bl_site_title.php:39
+#: includes/widgets/bl_site_title.php:60 includes/widgets/bl_site_title.php:171
+msgid "Site Title"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:181
+msgid "Size"
+msgstr ""
+
+#: includes/admin/admin-setting.php:303
+msgid "Social share"
+msgstr ""
+
+#: includes/admin/admin-setting.php:302
+msgid "Social Share <span>( Pro )</span>"
+msgstr ""
+
+#: includes/helper-function.php:173
+msgid "span"
+msgstr ""
+
+#: includes/widgets/bl_site_logo.php:99
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:338
+msgid "Sub Menu"
+msgstr ""
+
+#: includes/widgets/bl_post_comments.php:79
+msgid "Submit Button"
+msgstr ""
+
+#: includes/admin/admin-setting.php:378
+msgid "Successfully Settings Saved."
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:156
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/admin/admin-setting.php:68
+msgid "Template Builder"
+msgstr ""
+
+#: includes/admin/template-library.php:161
+msgid "Templates in this package"
+msgstr ""
+
+#: includes/admin/template-library.php:52
+#: includes/admin/template-library.php:53
+msgid "Templates Library"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:69
+msgid "Terms"
+msgstr ""
+
+#: includes/widgets/bl_post_search_form.php:58
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/bl_nav_menu.php:216
+msgid "Text Shadow"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:67
+msgid "Time"
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:117
+msgid "Time Format"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:206
+#: includes/widgets/bl_post_archive.php:330
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/bl_post_title.php:68
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/bl_page_title.php:45
+#: includes/widgets/bl_post_archive_title.php:46
+#: includes/widgets/bl_post_title.php:47 includes/widgets/bl_site_title.php:46
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/widgets/bl_post_archive.php:173
+msgid "Title Length"
+msgstr ""
+
+#: includes/admin/admin-setting.php:393
+msgid "to unlock these pro elements!"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:121
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/bl_page_title.php:78
+#: includes/widgets/bl_post_archive.php:363
+#: includes/widgets/bl_post_archive.php:470
+#: includes/widgets/bl_post_archive.php:576
+#: includes/widgets/bl_post_archive.php:668
+#: includes/widgets/bl_post_archive.php:737
+#: includes/widgets/bl_post_archive.php:873
+#: includes/widgets/bl_post_archive_title.php:80
+#: includes/widgets/bl_post_comments.php:59
+#: includes/widgets/bl_post_comments.php:120
+#: includes/widgets/bl_post_content.php:60
+#: includes/widgets/bl_post_excerpt.php:60
+#: includes/widgets/bl_post_meta_info.php:367
+#: includes/widgets/bl_post_meta_info.php:407
+#: includes/widgets/bl_post_search_form.php:126
+#: includes/widgets/bl_post_search_form.php:211
+#: includes/widgets/bl_post_title.php:80 includes/widgets/bl_site_title.php:80
+msgid "Typography"
+msgstr ""
+
+#: includes/admin/admin-setting.php:499
+msgid "Use Our plugins."
+msgstr ""
+
+#: includes/widgets/bl_post_meta_info.php:108
+#: includes/widgets/bl_post_meta_info.php:147
+#, php-format
+msgid "Use the letters: %s"
+msgstr ""
+
+#: includes/admin/admin-setting.php:431
+msgid "Video Tutorial"
+msgstr ""
+
+#: includes/admin/admin-setting.php:320
+msgid "View Counter <span>( Pro )</span>"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:246
+msgid "Was This Helpful?"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:249
+msgid ""
+"Was this helpful? is a WordPress plugin that allows you to take visitors' "
+"feedback on your post/pages or any article. A visitor can share his feedback "
+"by like/dislike/yes/no"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:98
+msgid "WC Builder"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:298
+msgid "WC Sales Notification"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:99
+msgid "Website"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:104
+msgid "Whols"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:159
+msgid ""
+"Whols is an outstanding WordPress plugin for WooCommerce that allows store "
+"owners to set wholesale prices for the products of their online stores. This "
+"plugin enables you to show special wholesale prices to the wholesaler. Users "
+"can easily request to become a wholesale customer by filling out a simple "
+"online registration form. Once the registration is complete, the owner of "
+"the store will be able to review the request and approve the request either "
+"manually or automatically."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:156
+msgid "Whols Pro"
+msgstr ""
+
+#: includes/widgets/bl_post_author_info.php:147
+msgid "Width"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:38
+msgid "WooLentor"
+msgstr ""
+
+#: includes/admin/admin-setting.php:507
+msgid "WooLentor - WooCommerce Page Builder and WooCommerce Elementor Addon"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:132
+msgid ""
+"WooLentor is one of the most popular WooCommerce Elementor Addons on "
+"WordPress.org. It has been downloaded more than 672,148 times and 60,000 "
+"stores are using WooLentor plugin. Why not you?"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:129
+msgid "WooLentor Pro"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:222
+msgid "WordPress Mega Menu Builder for Elementor"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:92
+msgid "WP Plugin Manager"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:201
+msgid "WP Plugin Manager Pro"
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:204
+msgid ""
+"WP Plugin Manager Pro is a specialized WordPress Plugin that helps you to "
+"deactivate unnecessary WordPress Plugins page wise and boosts the speed of "
+"your WordPress site to improve the overall site performance."
+msgstr ""
+
+#: includes/admin/admin-setting.php:110
+msgid "You can select blog page from here."
+msgstr ""
+
+#: includes/admin/admin-setting.php:128
+msgid "You can select footer template from here."
+msgstr ""
+
+#: includes/admin/admin-setting.php:119
+msgid "You can select header template from here."
+msgstr ""
+
+#: includes/admin/admin-setting.php:137
+msgid "You can select search page from here. <span>( Pro )</span>"
+msgstr ""
+
+#: includes/admin/admin-setting.php:101
+msgid "You can select Single blog page from here."
+msgstr ""
+
+#: includes/admin/recommended-plugins/recommendations.php:123
+msgid "You May Also Like"
+msgstr ""

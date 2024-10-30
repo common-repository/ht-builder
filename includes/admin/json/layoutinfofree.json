@@ -1,0 +1,258 @@
+{
+    
+    "templates": [
+        {
+            "id": "header-1",
+            "title": "Header 1",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "0"
+        },
+        {
+            "id": "header-2",
+            "title": "Header 2",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-3",
+            "title": "Header 3",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-4",
+            "title": "Header 4",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-5",
+            "title": "Header 5",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-5.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-6",
+            "title": "Header 6",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-6.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-7",
+            "title": "Header 7",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-7.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-8",
+            "title": "Header 8",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-8.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-9",
+            "title": "Header 9",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-9.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "header-10",
+            "title": "Header 10",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/header-10.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "header",
+            "tags": "header",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-1",
+            "title": "Footer 1",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-2",
+            "title": "Footer 2",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "Gallery Page",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-3",
+            "title": "Footer 3",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "0"
+        },
+        {
+            "id": "footer-4",
+            "title": "Footer 4",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-5",
+            "title": "Footer 5",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-5.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-6",
+            "title": "Footer 6",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-6.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-7",
+            "title": "Footer 7",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-7.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-8",
+            "title": "Footer 8",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-8.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-9",
+            "title": "Footer 9",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-9.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "footer-10",
+            "title": "Footer 10",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/footer-10.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "footer",
+            "tags": "footer",
+            "is_pro": "1"
+        },
+        {
+            "id": "blog-layout-1",
+            "title": "Blog Layout 1",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/blog-layout-1.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "blog",
+            "tags": "blog",
+            "is_pro": "1"
+        },
+        {
+            "id": "blog-layout-2",
+            "title": "Blog Layout 2",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/blog-layout-2.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "blog",
+            "tags": "blog",
+            "is_pro": "1"
+        },
+        {
+            "id": "blog-details-1",
+            "title": "Blog Details 1",
+            "thumbnail": "https://api.hasthemes.com/api/htbuilder/images/blog-details-1.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "",
+            "category": "blog",
+            "tags": "blog",
+            "is_pro": "1"
+        }
+    ]
+}
